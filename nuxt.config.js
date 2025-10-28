@@ -12,17 +12,17 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Where brilliant coders are formed. Join our amazing community of brilliant coders from all across Indonesia' },
+      { hid: 'description', name: 'description', content: 'Digest the Chemistry. Let\'s have fun with chemistry and build our chemistry' },
       // Open Graph Meta Tags for Facebook
       { hid: 'og:title', property: 'og:title', content: 'Bromiana' },
-      { hid: 'og:description', property: 'og:description', content: 'Where brilliant coders are formed. Join our amazing community of brilliant coders from all across Indonesia' },
+      { hid: 'og:description', property: 'og:description', content: 'Digest the Chemistry. Let\'s have fun with chemistry and build our chemistry' },
       { hid: 'og:image', property: 'og:image', content: 'https://bromiana.com/thumbnail.jpeg' },
       { hid: 'og:url', property: 'og:url', content: 'https://bromiana.com' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       // Twitter Card Meta Tags
       { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
       { hid: 'twitter:title', name: 'twitter:title', content: 'Bromiana' },
-      { hid: 'twitter:description', name: 'twitter:description', content: 'Where brilliant coders are formed. Join our amazing community of brilliant coders from all across Indonesia' },
+      { hid: 'twitter:description', name: 'twitter:description', content: 'Digest the Chemistry. Let\'s have fun with chemistry and build our chemistry' },
       { hid: 'twitter:image', name: 'twitter:image', content: 'https://bromiana.com/thumbnail.jpeg' },
       { hid: 'twitter:url', name: 'twitter:url', content: 'https://bromiana.com' },
     ],
