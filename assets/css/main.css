@@ -1,0 +1,13 @@
+/* assets/css/main.css */
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.headline {
+  font-family: 'League Spartan', sans-serif;
+  /* font-size: 64px; */
+}
+
+.secondary-font {
+  font-family: 'Lato', sans-serif;
+}
