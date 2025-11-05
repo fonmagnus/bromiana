@@ -2,7 +2,7 @@
   <div class="flex flex-col rounded-lg bg-white px-4 py-4 gap-4 relative">
     <div class="flex flex-col gap-4">
       <div class="flex gap-2 items-center">
-        <!-- <img :src="getImageSrc" alt="" class="w-12 h-12 lg:w-20 lg:h-20"> -->
+        <img :src="getImageSrc" alt="" class="w-12 h-12 lg:w-20 lg:h-20 object-cover rounded-full">
 
         <div class="flex flex-col">
           <a :href="href" target="_blank" class="hover:underline hover:text-primary">
