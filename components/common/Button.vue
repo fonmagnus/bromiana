@@ -26,7 +26,7 @@ export default {
     },
     ctaUrl: {
       type: String,
-      default: 'https://wa.link/7b47zf'
+      default: 'https://wa.link/u2rug7'
     }
   },
   methods: {

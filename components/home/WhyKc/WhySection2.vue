@@ -24,7 +24,7 @@
     </div>
     
     <div class="flex gap-4">
-      <Button cta cta-url="https://wa.link/7b47zf">
+      <Button cta cta-url="https://wa.link/u2rug7">
         <b>Whatsapp</b>
       </Button>
       <Button cta cta-url="https://www.linkedin.com/in/stefanus-6b29aa204">
