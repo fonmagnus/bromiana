@@ -49,11 +49,11 @@ export default {
           src: 'logo-rajawali.png'
         },
         {
-          name: 'SMAN 2 Cirebon',
-          src: 'logo-sanmar-crb.jpeg'
+          name: 'SMAN 10 Samarinda',
+          src: 'logo-sman-10-samarinda.jpeg'
         },
         {
-          name: 'SMAN 10 Samarinda',
+          name: 'SMAN 2 Cirebon',
           src: 'logo-sman2-cirebon.png'
         },
         {
