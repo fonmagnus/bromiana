@@ -15,7 +15,7 @@
           <img id="logo" class="w-20 h-20 lg:w-24 lg:h-24" src="~/assets/images/brom-logo-transparent.png" alt="Bromiana Logo">
         </a>
         <span class="font-black">
-          bromiana
+          Bromiana
         </span>
       </div>
 
